@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Uglyboy
-- 👀 I’m interested in Python and vue
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Python , java and vue
+- 🌱 I’m currently learning Python and java
 - 📫 How to reach me:uglyloser@163.com
 
 <!---
